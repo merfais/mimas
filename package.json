@@ -5,7 +5,8 @@
   "private": true,
   "main": "index.js",
   "dependencies": {
-    "egg": "^1.4.0"
+    "egg": "^1.4.0",
+    "qs": "^6.5.0"
   },
   "devDependencies": {
     "autod": "^2.8.0",
